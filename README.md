@@ -6,4 +6,4 @@ Here you can find all of the SQL code I used for my projects.
 
 **Human Resources Project Code**: [https://github.com/darianlee555/SQL-Code/blob/main/HR%20data%20queries%20(2).sql](https://github.com/darianlee555/HR-Analytics-Project/blob/main/HR%20data%20queries.sql)
 
-**Health/Wellness Project Code**: https://github.com/darianlee555/SQL-Code/blob/main/Health%20Data%20Queries%20(2).sql
+**Health/Wellness Project Code**: https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql
