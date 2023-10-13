@@ -8,4 +8,8 @@ Here you can find all of the SQL and R code I used for my projects.
 
 **Health/Wellness Project Code**: https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql
 
+**Simple Linear Regression Project Code For Part A**: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Code%20for%20Part%20A.pdf
 
+**Simple Linear Regression Project Code For Part B**: https://github.com/darianlee555/Simple-Linear-Regression-Project/blob/main/Code%20for%20Part%20B.pdf
+
+**Multiple Linear Regression Project Code**: https://github.com/darianlee555/Multiple-Linear-Regression-Project/blob/main/Project-2-Code.pdf
